@@ -1,4 +1,8 @@
-# PassWord Generator 
+# PassWord Generator
+
+## Deployed Link 
+https://anun05.github.io/Homework-3/
+
 ## Description
 What I made during this project was a random generator password. When clicking generate password button options are displayed on what the user would like to use in order to generate their password. I felt like I struggled way more than usual, so manay downs for this project, but I think what motivated me was the fact that I knew I would finish it eventually. Some of the problems that I came across while working on this project was being able to create a function that would actually generate the password, as well as having all off the if statements joinded togther. 
 
